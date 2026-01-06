@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FF121212</color> <!-- Dark background color -->
+    <color name="text_color_primary">#FFFFFF</color> <!-- White for dark theme -->
+    <color name="colorPrimary">#2E7D32</color> <!-- Darker Green -->
+    <color name="colorPrimaryVariant">#1B5E20</color> <!-- Almost Forest Green -->
+    <color name="colorOnPrimary">#E0E0E0</color> <!-- Light Gray -->
+    <color name="colorSecondary">#004C40</color> <!-- Darker Teal -->
+    <color name="colorSecondaryVariant">#00251A</color> <!-- Very Dark Teal -->
+    <color name="colorOnSecondary">#E0E0E0</color> <!-- Light Gray -->
+    <color name="colorPrimaryDark">#1B5E20</color> <!-- Darker Primary Dark Color for Night -->
+    <color name="colorAccent">#FFD54F</color>
+
+</resources>

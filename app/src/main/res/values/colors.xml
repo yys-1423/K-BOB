@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="text_color_primary">#000000</color> <!-- Black for light theme -->
+    <color name="colorPrimary">#4CAF50</color> <!-- Vibrant Green -->
+    <color name="colorPrimaryVariant">#388E3C</color> <!-- Dark Green -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+    <color name="colorSecondary">#00796B</color> <!-- Teal -->
+    <color name="colorSecondaryVariant">#004D40</color> <!-- Dark Teal -->
+    <color name="colorOnSecondary">#000000</color> <!-- Black -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Example Primary Dark Color -->
+    <color name="colorAccent">#FFC107</color>
+    <color name="background_color">#F3F3F3</color>
+    <color name="grid_background_color">#FFFFFF</color>
+    <color name="text_color_secondary">#666666</color>
+
+</resources>

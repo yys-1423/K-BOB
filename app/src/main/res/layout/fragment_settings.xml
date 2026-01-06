@@ -1,0 +1,138 @@
+<!-- res/layout/fragment_settings.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/windowBackground"
+    tools:context=".SettingsFragment">
+
+    <!-- Profile Name Text View -->
+    <TextView
+        android:id="@+id/text_current_profile_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/current_profile"
+        android:textColor="@color/text_color_primary"
+        android:textSize="20sp" />
+
+    <!-- Manage Profile Button -->
+    <LinearLayout
+        android:id="@+id/button_manage_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_current_profile_name"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true">
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_manage_profile"
+            android:contentDescription="@string/manage_profile" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/manage_profile"
+            android:layout_marginStart="16dp"
+            android:textSize="16sp"
+            android:textColor="@color/text_color_primary" />
+    </LinearLayout>
+
+    <!-- Personal Settings Button -->
+    <LinearLayout
+        android:id="@+id/button_personal_settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_manage_profile"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true">
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_personal_settings"
+            android:contentDescription="@string/personal_settings" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/personal_settings"
+            android:layout_marginStart="16dp"
+            android:textSize="16sp"
+            android:textColor="@color/text_color_primary" />
+    </LinearLayout>
+
+    <!-- Enable Dark Mode Button -->
+    <LinearLayout
+        android:id="@+id/button_dark_mode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_personal_settings"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true">
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_dark_mode"
+            android:contentDescription="@string/enable_dark_mode" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/enable_dark_mode"
+            android:layout_marginStart="16dp"
+            android:textSize="16sp"
+            android:textColor="@color/text_color_primary" />
+    </LinearLayout>
+
+    <!-- Change Language Button -->
+    <LinearLayout
+        android:id="@+id/button_language"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_dark_mode"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true">
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_language"
+            android:contentDescription="@string/change_language" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/change_language"
+            android:layout_marginStart="16dp"
+            android:textSize="16sp"
+            android:textColor="@color/text_color_primary" />
+    </LinearLayout>
+
+</RelativeLayout>

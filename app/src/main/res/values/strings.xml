@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">K-BOB</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_personal_settings">PersonalSettingsActivity</string>
+    <string name="title_activity_personal_settings_activity.java">PersonalSettingsActivity.java
+    </string>
+    <string name="manage_profile">Manage Profile</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="change_language">한국어</string>
+    <string name="current_profile">Current Profile: %1$s</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="dietary_restrictions">Dietary Restrictions</string>
+    <string name="vegan_type">Vegan Type</string>
+    <string name="name">Name</string>
+    <string name="vegan">Vegan</string>
+    <string name="lacto">Lacto vegetarianism</string>
+    <string name="ovo">Ovo vegetarianism</string>
+    <string name="lacto_ovo">Lacto-ovo vegetarianism</string>
+    <string name="pollotarian">Pollotarian</string>
+    <string name="pescatarian">Pescatarian</string>
+    <string name="setting">Setting</string>
+    <string name="order_translation">Order Translation</string>
+    <string name="food_suggestions">Food Suggestions</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="back_button_desc">Back</string>
+    <string name="bibimbap_name">Bibimbap</string>
+    <string name="bibimbap_description">Mixed rice with vegetables</string>
+    <string name="bibimbap_tags">#rice #vegetables #gochujang</string>
+    <string name="bibimbap_long_description">A mixed rice dish with various seasoned vegetables, often topped with gochujang, and sometimes tofu or mushrooms.</string>
+    <string name="bibimbap_ingredients">Rice, spinach, carrots, zucchini, mushrooms, bean sprouts, gochujang, sesame oil, nori, tofu</string>
+    <string name="bibimbap_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="bibimbap_restrictions">Contains sesame, soy. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain eggs.</string>
+    <string name="recommendation_icon_desc">Recommendation</string>
+    <string name="korean_translation_icon_desc">Korean Translation</string>
+    <string name="pronunciation_icon_desc">Pronunciation</string>
+    <string name="view_restaurants_in_maps">Press here to view restaurants in Google Map</string>
+    <string name="food_suggestions_icon_desc">Food Suggestions Icon</string>
+    <string name="settings_icon_desc">Settings Icon</string>
+    <string name="upload_picture_icon_desc">Upload Picture Icon</string>
+    <string name="order_translation_icon_desc">Order Translation Icon</string>
+    <string name="food_image_desc">Food Image</string>
+
+    <!-- Strings for Japchae -->
+    <string name="japchae_name">Japchae</string>
+    <string name="japchae_description">Stir-fried glass noodles with vegetables</string>
+    <string name="japchae_tags">#sweet potato noodles #spinach #mushrooms</string>
+    <string name="japchae_long_description">Sweet potato glass noodles stir-fried with a variety of vegetables, often served with soy sauce and sesame oil.</string>
+    <string name="japchae_ingredients">Sweet potato noodles, spinach, carrots, mushrooms, bell peppers, onions, garlic, soy sauce, sesame oil, scallions</string>
+    <string name="japchae_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="japchae_restrictions">Contains sesame, soy. Free from chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain beef, pork, and chicken.</string>
+
+    <!-- Strings for Kongguksu -->
+    <string name="kongguksu_name">Kongguksu</string>
+    <string name="kongguksu_description">Cold soy milk noodle soup</string>
+    <string name="kongguksu_tags">#soy milk #noodles #cucumber</string>
+    <string name="kongguksu_long_description">A refreshing cold noodle soup made with soy milk, typically garnished with cucumber and sometimes sesame seeds.</string>
+    <string name="kongguksu_ingredients">Soy milk, wheat noodles, cucumber, sesame seeds, salt, soy sauce, scallions, garlic, vinegar, ice cubes</string>
+    <string name="kongguksu_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="kongguksu_restrictions">Contains soy, wheat, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, peanuts, corn, gluten, mustard, celery, sulfites, lupin. It may contain eggs.</string>
+
+    <!-- Strings for Doenjang Jjigae -->
+    <string name="doenjang_jjigae_name">Doenjang Jjigae</string>
+    <string name="doenjang_jjigae_description">Soybean paste stew with tofu</string>
+    <string name="doenjang_jjigae_tags">#doenjang #tofu #zucchini</string>
+    <string name="doenjang_jjigae_long_description">A hearty stew made with fermented soybean paste (doenjang), tofu, and assorted vegetables.</string>
+    <string name="doenjang_jjigae_ingredients">Doenjang, tofu, zucchini, potatoes, onions, mushrooms, garlic, scallions, chili peppers, water</string>
+    <string name="doenjang_jjigae_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="doenjang_jjigae_restrictions">Contains soy. Free from chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain beef, pork.</string>
+
+    <!-- Strings for Sundubu Jjigae -->
+    <string name="sundubu_jjigae_name">Sundubu Jjigae</string>
+    <string name="sundubu_jjigae_description">Spicy soft tofu stew</string>
+    <string name="sundubu_jjigae_tags">#soft tofu #gochujang #vegetables</string>
+    <string name="sundubu_jjigae_long_description">A spicy stew made with soft tofu, vegetables, and seasoned with gochujang and gochugaru.</string>
+    <string name="sundubu_jjigae_ingredients">Soft tofu, zucchini, mushrooms, onions, garlic, gochujang, gochugaru, scallions, soy sauce, vegetable broth</string>
+    <string name="sundubu_jjigae_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="sundubu_jjigae_restrictions">Contains soy. Free from beef, pork, chicken, lamb, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain shellfish.</string>
+
+    <!-- Strings for Kimchi Bokkeumbap -->
+    <string name="kimchi_bokkeumbap_name">Kimchi Bokkeumbap</string>
+    <string name="kimchi_bokkeumbap_description">Kimchi fried rice</string>
+    <string name="kimchi_bokkeumbap_tags">#rice #kimchi #vegetables</string>
+    <string name="kimchi_bokkeumbap_long_description">A flavorful fried rice dish made with kimchi, vegetables, and often tofu or mushrooms.</string>
+    <string name="kimchi_bokkeumbap_ingredients">Rice, vegan kimchi, carrots, onions, peas, corn, tofu, garlic, soy sauce, sesame oil</string>
+    <string name="kimchi_bokkeumbap_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="kimchi_bokkeumbap_restrictions">Contains soy, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain beef, pork, and chicken.</string>
+
+    <!-- Strings for Yachae Kimbap -->
+    <string name="yachae_kimbap_name">Yachae Kimbap</string>
+    <string name="yachae_kimbap_description">Vegetable rice rolls</string>
+    <string name="yachae_kimbap_tags">#rice #vegetables #nori</string>
+    <string name="yachae_kimbap_long_description">Rice and assorted vegetables rolled in nori seaweed, similar to sushi but with a Korean twist.</string>
+    <string name="yachae_kimbap_ingredients">Rice, carrots, spinach, cucumber, pickled radish, nori, sesame oil, soy sauce, garlic, salt</string>
+    <string name="yachae_kimbap_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="yachae_kimbap_restrictions">Contains sesame, soy. Free from lamb, shellfish, crustaceans, dairy, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain eggs.</string>
+
+    <!-- Strings for Tofu Jorim -->
+    <string name="tofu_jorim_name">Tofu Jorim</string>
+    <string name="tofu_jorim_description">Braised tofu</string>
+    <string name="tofu_jorim_tags">#tofu #soy sauce #garlic</string>
+    <string name="tofu_jorim_long_description">Tofu braised in a savory soy-based sauce with garlic and chili.</string>
+    <string name="tofu_jorim_ingredients">Tofu, soy sauce, garlic, onions, scallions, sesame oil, chili flakes, sugar, water, sesame seeds</string>
+    <string name="tofu_jorim_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="tofu_jorim_restrictions">Contains soy, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin.</string>
+
+    <!-- Strings for Hobakjuk -->
+    <string name="hobakjuk_name">Hobakjuk</string>
+    <string name="hobakjuk_description">Sweet pumpkin porridge</string>
+    <string name="hobakjuk_tags">#pumpkin #rice #sugar</string>
+    <string name="hobakjuk_long_description">A creamy and sweet porridge made with pumpkin and rice, often served as a dessert or snack.</string>
+    <string name="hobakjuk_ingredients">Pumpkin, rice, sugar, water, salt, pine nuts, red beans, chestnuts, jujubes, honey</string>
+    <string name="hobakjuk_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="hobakjuk_restrictions">Contains pine nuts. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, soy, corn, gluten, mustard, celery, sulfites, lupin.</string>
+
+    <!-- Strings for Buchimgae -->
+    <string name="buchimgae_name">Buchimgae</string>
+    <string name="buchimgae_description">Vegetable pancakes</string>
+    <string name="buchimgae_tags">#flour #vegetables #water</string>
+    <string name="buchimgae_long_description">Savory pancakes made with a batter of flour and water, mixed with various vegetables.</string>
+    <string name="buchimgae_ingredients">Flour, water, zucchini, carrots, onions, scallions, garlic, salt, chili peppers, dipping sauce</string>
+    <string name="buchimgae_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="buchimgae_restrictions">Contains wheat, gluten. Free from lamb, crustaceans, dairy, peanuts, soy, corn, mustard, celery, sulfites, lupin. It may contain beef, pork, chicken, eggs, and shellfish.</string>
+
+    <!-- Strings for Dubu Kimchi -->
+    <string name="dubu_kimchi_name">Dubu Kimchi</string>
+    <string name="dubu_kimchi_description">Stir-fried kimchi with tofu</string>
+    <string name="dubu_kimchi_tags">#kimchi #tofu #garlic</string>
+    <string name="dubu_kimchi_long_description">Stir-fried kimchi served with sliced tofu, often enjoyed as a side dish or main dish.</string>
+    <string name="dubu_kimchi_ingredients">Vegan kimchi, tofu, garlic, onions, scallions, sesame oil, soy sauce, sugar, chili flakes, water</string>
+    <string name="dubu_kimchi_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="dubu_kimchi_restrictions">Contains soy, sesame. Free from beef, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin.</string>
+
+    <!-- Strings for Nokdujeon -->
+    <string name="nokdujeon_name">Nokdujeon</string>
+    <string name="nokdujeon_description">Mung bean pancakes</string>
+    <string name="nokdujeon_tags">#mung beans #kimchi #vegetables</string>
+    <string name="nokdujeon_long_description">Savory pancakes made from ground mung beans mixed with vegetables and kimchi.</string>
+    <string name="nokdujeon_ingredients">Mung beans, vegan kimchi, onions, scallions, garlic, carrots, bean sprouts, salt, sesame oil, water</string>
+    <string name="nokdujeon_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="nokdujeon_restrictions">Contains sesame, soy. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain pork.</string>
+
+    <!-- Strings for Tteokbokki -->
+    <string name="tteokbokki_name">Tteokbokki</string>
+    <string name="tteokbokki_description">Spicy rice cakes</string>
+    <string name="tteokbokki_tags">#rice cakes #gochujang #vegetables</string>
+    <string name="tteokbokki_long_description">Chewy rice cakes cooked in a spicy and sweet gochujang sauce with vegetables.</string>
+    <string name="tteokbokki_ingredients">Rice cakes, gochujang, carrots, cabbage, onions, scallions, garlic, soy sauce, sugar, vegetable broth</string>
+    <string name="tteokbokki_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="tteokbokki_restrictions">Contains soy. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain eggs.</string>
+
+    <!-- Strings for Ssambap -->
+    <string name="ssambap_name">Ssambap</string>
+    <string name="ssambap_description">Rice and vegetables wrapped in leafy greens</string>
+    <string name="ssambap_tags">#rice #leafy greens #ssamjang</string>
+    <string name="ssambap_long_description">Rice and vegetables wrapped in leafy greens, typically served with a spicy ssamjang paste.</string>
+    <string name="ssambap_ingredients">Rice, lettuce, perilla leaves, carrots, cucumbers, bell peppers, ssamjang, garlic, sesame oil, chili paste</string>
+    <string name="ssambap_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="ssambap_restrictions">Contains soy, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin.</string>
+
+    <!-- Strings for Kimchi Jjigae -->
+    <string name="kimchi_jjigae_name">Kimchi Jjigae</string>
+    <string name="kimchi_jjigae_description">Kimchi stew with tofu</string>
+    <string name="kimchi_jjigae_tags">#kimchi #tofu #vegetables</string>
+    <string name="kimchi_jjigae_long_description">A hearty and spicy stew made with kimchi, tofu, and various vegetables.</string>
+    <string name="kimchi_jjigae_ingredients">Vegan kimchi, tofu, onions, garlic, scallions, zucchini, mushrooms, gochujang, soy sauce, vegetable broth</string>
+    <string name="kimchi_jjigae_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="kimchi_jjigae_restrictions">Contains soy. Free from beef, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, sesame, mustard, celery, sulfites, lupin. It may contain pork.</string>
+
+    <!-- Strings for Gaji Bokkeum -->
+    <string name="gaji_bokkeum_name">Gaji Bokkeum</string>
+    <string name="gaji_bokkeum_description">Stir-fried eggplant</string>
+    <string name="gaji_bokkeum_tags">#eggplant #soy sauce #garlic</string>
+    <string name="gaji_bokkeum_long_description">Stir-fried eggplant seasoned with soy sauce, garlic, and sesame oil.</string>
+    <string name="gaji_bokkeum_ingredients">Eggplant, soy sauce, garlic, onions, scallions, sesame oil, sesame seeds, chili flakes, sugar, water</string>
+    <string name="gaji_bokkeum_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="gaji_bokkeum_restrictions">Contains soy, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin.</string>
+
+    <!-- Strings for Yachae Bibim Guksu -->
+    <string name="yachae_bibim_guksu_name">Yachae Bibim Guksu</string>
+    <string name="yachae_bibim_guksu_description">Spicy mixed noodles with vegetables</string>
+    <string name="yachae_bibim_guksu_tags">#noodles #vegetables #gochujang</string>
+    <string name="yachae_bibim_guksu_long_description">Cold noodles mixed with a variety of vegetables and a spicy gochujang sauce.</string>
+    <string name="yachae_bibim_guksu_ingredients">Wheat noodles, cucumber, carrots, spinach, gochujang, soy sauce, garlic, sesame oil, sugar, vinegar</string>
+    <string name="yachae_bibim_guksu_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="yachae_bibim_guksu_restrictions">Contains soy, wheat, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, corn, gluten, mustard, celery, sulfites, lupin.</string>
+
+    <!-- Strings for Kongnamul Gukbap -->
+    <string name="kongnamul_gukbap_name">Kongnamul Gukbap</string>
+    <string name="kongnamul_gukbap_description">Bean sprout soup with rice</string>
+    <string name="kongnamul_gukbap_tags">#bean sprouts #rice #garlic</string>
+    <string name="kongnamul_gukbap_long_description">A comforting soup made with bean sprouts, rice, and seasoned with garlic and soy sauce.</string>
+    <string name="kongnamul_gukbap_ingredients">Bean sprouts, rice, garlic, scallions, soy sauce, sesame oil, gochugaru, vegetable broth, salt, pepper</string>
+    <string name="kongnamul_gukbap_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="kongnamul_gukbap_restrictions">Contains soy, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin. It may contain eggs.</string>
+
+    <!-- Strings for Sigeumchi Doenjang Guk -->
+    <string name="sigeumchi_doenjang_guk_name">Sigeumchi Doenjang Guk</string>
+    <string name="sigeumchi_doenjang_guk_description">Spinach and soybean paste soup</string>
+    <string name="sigeumchi_doenjang_guk_tags">#spinach #doenjang #garlic</string>
+    <string name="sigeumchi_doenjang_guk_long_description">A savory soup made with spinach, soybean paste (doenjang), and garlic.</string>
+    <string name="sigeumchi_doenjang_guk_ingredients">Spinach, doenjang, garlic, onions, scallions, tofu, water, soy sauce, sesame oil, salt</string>
+    <string name="sigeumchi_doenjang_guk_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="sigeumchi_doenjang_guk_restrictions">Contains soy, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin.</string>
+
+    <!-- Strings for Chwinamul Bap -->
+    <string name="chwinamul_bap_name">Chwinamul Bap</string>
+    <string name="chwinamul_bap_description">Steamed rice with seasoned aster leaves</string>
+    <string name="chwinamul_bap_tags">#rice #aster leaves #garlic</string>
+    <string name="chwinamul_bap_long_description">Steamed rice mixed with seasoned aster leaves and garlic, often enjoyed with a soy-based dipping sauce.</string>
+    <string name="chwinamul_bap_ingredients">Rice, aster leaves, garlic, soy sauce, sesame oil, scallions, chili flakes, salt, water, vegetable broth</string>
+    <string name="chwinamul_bap_dietary_info">Vegan, Lacto-vegetarian, Ovo-vegetarian, Lacto-ovo-vegetarian, Pollo-vegetarian, Pesco-vegetarian</string>
+    <string name="chwinamul_bap_restrictions">Contains soy, sesame. Free from beef, pork, chicken, lamb, shellfish, crustaceans, dairy, eggs, peanuts, wheat, corn, gluten, mustard, celery, sulfites, lupin.</string>
+    <string name="detailed_description">Detailed description</string>
+    <string name="_10_major_ingredients">10 Major Ingredients</string>
+    <string name="permitted_vegan_type">Permitted Vegan Type</string>
+    <string name="press_here_to_view_restaurants_in_google_map">Press here to view restaurants in Google Map</string>
+    <string name="food_information">Food Information</string>
+    <string name="korean_vegan_food">Korean Vegan Food</string>
+    <string name="custom">Custom</string>
+</resources>

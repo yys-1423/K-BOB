@@ -1,0 +1,232 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Input Field for Person's Name -->
+        <EditText
+            android:id="@+id/input_person_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/name"
+            android:inputType="textPersonName" />
+
+        <!-- New Section for Additional Preferences -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vegan_type"
+            android:textSize="22sp"
+            android:layout_marginTop="16dp"
+            android:padding="8dp" />
+
+        <CheckBox
+            android:id="@+id/check_preference_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/vegan" />
+
+        <CheckBox
+            android:id="@+id/check_preference_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/lacto" />
+
+        <CheckBox
+            android:id="@+id/check_preference_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/ovo" />
+
+        <CheckBox
+            android:id="@+id/check_preference_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/lacto_ovo" />
+
+        <CheckBox
+            android:id="@+id/check_preference_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/pollotarian" />
+
+        <CheckBox
+            android:id="@+id/check_preference_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/pescatarian" />
+
+        <CheckBox
+            android:id="@+id/check_preference_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/custom" />
+        <!-- Title for Dietary Restrictions -->
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2">
+            <TextView
+                android:layout_height="wrap_content"
+                android:text="@string/dietary_restrictions"
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"
+                android:padding="8dp" />
+            <CheckBox
+                android:id="@+id/check_select_all"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="All" />
+
+        </GridLayout>
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2">
+
+            <CheckBox
+                android:id="@+id/check_beef"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Beef (소고기)" />
+
+            <CheckBox
+                android:id="@+id/check_pork"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pork (돼지고기)" />
+
+            <CheckBox
+                android:id="@+id/check_chicken"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chicken (닭고기)" />
+
+            <CheckBox
+                android:id="@+id/check_lamb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lamb (양고기)" />
+
+            <CheckBox
+                android:id="@+id/check_fish"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fish (어패류)" />
+
+            <CheckBox
+                android:id="@+id/check_shellfish"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Shellfish (갑각류)" />
+
+            <CheckBox
+                android:id="@+id/check_dairy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dairy (유제품)" />
+
+            <CheckBox
+                android:id="@+id/check_egg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Egg (계란)" />
+
+            <CheckBox
+                android:id="@+id/check_flour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Flour (밀가루)" />
+
+            <CheckBox
+                android:id="@+id/check_peanut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Peanut (땅콩)" />
+
+            <CheckBox
+                android:id="@+id/check_tree_nuts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tree Nuts (견과류)" />
+
+            <CheckBox
+                android:id="@+id/check_soy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Soy sauce(간장)" />
+
+            <CheckBox
+                android:id="@+id/check_sesame"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sesame (참깨)" />
+
+            <CheckBox
+                android:id="@+id/check_wheat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Wheat (밀)" />
+
+            <CheckBox
+                android:id="@+id/check_corn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Corn (옥수수)" />
+
+            <CheckBox
+                android:id="@+id/check_gluten"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gluten (글루텐)" />
+
+            <CheckBox
+                android:id="@+id/check_mustard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mustard (겨자)" />
+
+            <CheckBox
+                android:id="@+id/check_celery"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Celery (셀러리)" />
+
+            <CheckBox
+                android:id="@+id/check_sulfites"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sulfites (아황산염)" />
+
+            <CheckBox
+                android:id="@+id/check_lupin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lupin (루핀)" />
+        </GridLayout>
+
+        <!-- Save Button -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button_save_settings"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/save_settings"
+            android:layout_marginTop="24dp"
+            style="@style/FancyButton" />
+    </LinearLayout>
+</ScrollView>

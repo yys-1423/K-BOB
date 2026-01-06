@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">K-BOB</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">다음</string>
+    <string name="previous">이전</string>
+    <string name="title_activity_personal_settings">PersonalSettingsActivity</string>
+    <string name="title_activity_personal_settings_activity.java">PersonalSettingsActivity.java
+    </string>
+    <string name="manage_profile">프로필 관리</string>
+    <string name="personal_settings">개인 설정</string>
+    <string name="enable_dark_mode">다크 모드 활성화</string>
+    <string name="change_language">English</string>
+    <string name="current_profile">현재 프로필: %1$s</string>
+    <string name="add_profile">프로필 추가</string>
+    <string name="save_settings">저장</string>
+    <string name="dietary_restrictions">제한되는 음식물</string>
+    <string name="vegan_type">비건 타입</string>
+    <string name="name">이름</string>
+    <string name="vegan">비건</string>
+    <string name="lacto">락토</string>
+    <string name="ovo">오보</string>
+    <string name="lacto_ovo">락토-오보</string>
+    <string name="pollotarian">폴로</string>
+    <string name="pescatarian">페스코</string>
+    <string name="setting">설정</string>
+    <string name="order_translation">주문 번역</string>
+    <string name="food_suggestions">음식 추천</string>
+    <string name="upload_picture">사진 업로드</string>
+    <string name="back_button_desc">Back</string>
+    <string name="recommendation_icon_desc">Recommendation</string>
+    <string name="korean_translation_icon_desc">Korean Translation</string>
+    <string name="pronunciation_icon_desc">Pronunciation</string>
+    <string name="bibimbap_name">비빔밥</string>
+    <string name="bibimbap_description">채소와 비빔밥</string>
+    <string name="bibimbap_tags">#밥 #채소 #고추장</string>
+    <string name="bibimbap_long_description">여러 가지 양념된 채소와 함께 비빔밥, 때로는 두부나 버섯을 올려서.</string>
+    <string name="bibimbap_ingredients">밥, 시금치, 당근, 애호박, 버섯, 콩나물, 고추장, 참기름, 김, 두부</string>
+    <string name="bibimbap_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="bibimbap_restrictions">참깨, 콩 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 계란 포함 가능.</string>
+    <string name="view_restaurants_in_maps">구글 지도에서 레스토랑 보기.</string>
+    <string name="food_suggestions_icon_desc">Food Suggestions Icon</string>
+    <string name="settings_icon_desc">Settings Icon</string>
+    <string name="upload_picture_icon_desc">Upload Picture Icon</string>
+    <string name="order_translation_icon_desc">Order Translation Icon</string>
+    <string name="food_image_desc">음식 사진</string>
+
+    <!-- Strings for Japchae -->
+    <string name="japchae_name">잡채</string>
+    <string name="japchae_description">채소와 당면</string>
+    <string name="japchae_tags">#당면 #시금치 #버섯</string>
+    <string name="japchae_long_description">다양한 채소와 함께 볶은 당면, 주로 간장과 참기름과 함께 제공.</string>
+    <string name="japchae_ingredients">당면, 시금치, 당근, 버섯, 피망, 양파, 마늘, 간장, 참기름, 파</string>
+    <string name="japchae_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="japchae_restrictions">참깨, 콩 포함. 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 쇠고기, 돼지고기 포함 가능.</string>
+
+    <!-- Strings for Kongguksu -->
+    <string name="kongguksu_name">콩국수</string>
+    <string name="kongguksu_description">차가운 두유 국수</string>
+    <string name="kongguksu_tags">#두유 #국수 #오이</string>
+    <string name="kongguksu_long_description">두유로 만든 시원한 국수, 주로 오이와 참깨로 장식.</string>
+    <string name="kongguksu_ingredients">두유, 밀 국수, 오이, 참깨, 소금, 간장, 파, 마늘, 식초, 얼음</string>
+    <string name="kongguksu_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="kongguksu_restrictions">콩, 밀, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 땅콩, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 계란 포함 가능.</string>
+
+    <!-- Strings for Doenjang Jjigae -->
+    <string name="doenjang_jjigae_name">된장찌개</string>
+    <string name="doenjang_jjigae_description">두부와 된장찌개</string>
+    <string name="doenjang_jjigae_tags">#된장 #두부 #애호박</string>
+    <string name="doenjang_jjigae_long_description">된장, 두부, 여러 채소로 만든 푸짐한 찌개.</string>
+    <string name="doenjang_jjigae_ingredients">된장, 두부, 애호박, 감자, 양파, 버섯, 마늘, 파, 고추, 물</string>
+    <string name="doenjang_jjigae_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="doenjang_jjigae_restrictions">콩 포함. 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 쇠고기, 돼지고기 포함 가능.</string>
+
+    <!-- Strings for Sundubu Jjigae -->
+    <string name="sundubu_jjigae_name">순두부찌개</string>
+    <string name="sundubu_jjigae_description">매운 순두부찌개</string>
+    <string name="sundubu_jjigae_tags">#순두부 #고추장 #채소</string>
+    <string name="sundubu_jjigae_long_description">순두부, 채소, 고추장과 고춧가루로 양념한 매운 찌개.</string>
+    <string name="sundubu_jjigae_ingredients">순두부, 애호박, 버섯, 양파, 마늘, 고추장, 고춧가루, 파, 간장, 야채 육수</string>
+    <string name="sundubu_jjigae_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="sundubu_jjigae_restrictions">콩 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 조개류 포함 가능.</string>
+
+    <!-- Strings for Kimchi Bokkeumbap -->
+    <string name="kimchi_bokkeumbap_name">김치볶음밥</string>
+    <string name="kimchi_bokkeumbap_description">김치볶음밥</string>
+    <string name="kimchi_bokkeumbap_tags">#밥 #김치 #채소</string>
+    <string name="kimchi_bokkeumbap_long_description">김치, 채소, 두부나 버섯을 사용한 풍미있는 볶음밥.</string>
+    <string name="kimchi_bokkeumbap_ingredients">밥, 비건 김치, 당근, 양파, 완두콩, 옥수수, 두부, 마늘, 간장, 참기름</string>
+    <string name="kimchi_bokkeumbap_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="kimchi_bokkeumbap_restrictions">콩, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 쇠고기, 돼지고기 포함 가능.</string>
+
+    <!-- Strings for Yachae Kimbap -->
+    <string name="yachae_kimbap_name">야채 김밥</string>
+    <string name="yachae_kimbap_description">야채 김밥</string>
+    <string name="yachae_kimbap_tags">#밥 #채소 #김</string>
+    <string name="yachae_kimbap_long_description">채소를 김에 말아 만든 김밥, 한국식 스시와 비슷.</string>
+    <string name="yachae_kimbap_ingredients">밥, 당근, 시금치, 오이, 단무지, 김, 참기름, 간장, 마늘, 소금</string>
+    <string name="yachae_kimbap_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="yachae_kimbap_restrictions">참깨, 콩 포함. 양고기, 조개류, 갑각류, 유제품, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 계란 포함 가능.</string>
+
+    <!-- Strings for Tofu Jorim -->
+    <string name="tofu_jorim_name">두부조림</string>
+    <string name="tofu_jorim_description">조림 두부</string>
+    <string name="tofu_jorim_tags">#두부 #간장 #마늘</string>
+    <string name="tofu_jorim_long_description">간장과 마늘로 양념한 두부 조림.</string>
+    <string name="tofu_jorim_ingredients">두부, 간장, 마늘, 양파, 파, 참기름, 고춧가루, 설탕, 물, 참깨</string>
+    <string name="tofu_jorim_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="tofu_jorim_restrictions">콩, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+
+    <!-- Strings for Hobakjuk -->
+    <string name="hobakjuk_name">호박죽</string>
+    <string name="hobakjuk_description">단호박죽</string>
+    <string name="hobakjuk_tags">#호박 #밥 #설탕</string>
+    <string name="hobakjuk_long_description">호박과 쌀로 만든 달콤한 죽, 종종 디저트나 간식으로 제공.</string>
+    <string name="hobakjuk_ingredients">호박, 쌀, 설탕, 물, 소금, 잣, 팥, 밤, 대추, 꿀</string>
+    <string name="hobakjuk_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="hobakjuk_restrictions">잣 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 콩, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+
+    <!-- Strings for Buchimgae -->
+    <string name="buchimgae_name">부침개</string>
+    <string name="buchimgae_description">야채전</string>
+    <string name="buchimgae_tags">#밀가루 #채소 #물</string>
+    <string name="buchimgae_long_description">밀가루와 물로 만든 반죽에 여러 가지 채소를 섞어 만든 부침개.</string>
+    <string name="buchimgae_ingredients">밀가루, 물, 애호박, 당근, 양파, 파, 마늘, 소금, 고추, 소스</string>
+    <string name="buchimgae_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="buchimgae_restrictions">밀, 글루텐 포함. 양고기, 갑각류, 유제품, 땅콩, 콩, 옥수수, 겨자, 셀러리, 아황산염, 루핀 제외. 쇠고기, 돼지고기, 닭고기, 계란, 조개류 포함 가능.</string>
+
+    <!-- Strings for Dubu Kimchi -->
+    <string name="dubu_kimchi_name">두부김치</string>
+    <string name="dubu_kimchi_description">김치 두부 볶음</string>
+    <string name="dubu_kimchi_tags">#김치 #두부 #마늘</string>
+    <string name="dubu_kimchi_long_description">볶은 김치와 두부, 주로 반찬이나 메인 요리로 즐겨먹음.</string>
+    <string name="dubu_kimchi_ingredients">비건 김치, 두부, 마늘, 양파, 파, 참기름, 간장, 설탕, 고춧가루, 물</string>
+    <string name="dubu_kimchi_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="dubu_kimchi_restrictions">콩, 참깨 포함. 쇠고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+
+    <!-- Strings for Nokdujeon -->
+    <string name="nokdujeon_name">녹두전</string>
+    <string name="nokdujeon_description">녹두 빈대떡</string>
+    <string name="nokdujeon_tags">#녹두 #김치 #채소</string>
+    <string name="nokdujeon_long_description">갈은 녹두와 채소, 김치를 섞어 만든 빈대떡.</string>
+    <string name="nokdujeon_ingredients">녹두, 비건 김치, 양파, 파, 마늘, 당근, 콩나물, 소금, 참기름, 물</string>
+    <string name="nokdujeon_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="nokdujeon_restrictions">참깨, 콩 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 돼지고기 포함 가능.</string>
+
+    <!-- Strings for Tteokbokki -->
+    <string name="tteokbokki_name">떡볶이</string>
+    <string name="tteokbokki_description">매운 떡볶이</string>
+    <string name="tteokbokki_tags">#떡 #고추장 #채소</string>
+    <string name="tteokbokki_long_description">매콤하고 달콤한 고추장 소스에 조리한 떡볶이.</string>
+    <string name="tteokbokki_ingredients">떡, 고추장, 당근, 양배추, 양파, 파, 마늘, 간장, 설탕, 야채 육수</string>
+    <string name="tteokbokki_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="tteokbokki_restrictions">콩 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 계란 포함 가능.</string>
+
+    <!-- Strings for Ssambap -->
+    <string name="ssambap_name">쌈밥</string>
+    <string name="ssambap_description">쌈밥</string>
+    <string name="ssambap_tags">#밥 #잎채소 #쌈장</string>
+    <string name="ssambap_long_description">밥과 채소를 잎채소에 싸서, 주로 매콤한 쌈장과 함께 제공.</string>
+    <string name="ssambap_ingredients">밥, 상추, 깻잎, 당근, 오이, 피망, 쌈장, 마늘, 참기름, 고추장</string>
+    <string name="ssambap_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="ssambap_restrictions">콩, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+
+    <!-- Strings for Kimchi Jjigae -->
+    <string name="kimchi_jjigae_name">김치찌개</string>
+    <string name="kimchi_jjigae_description">김치찌개</string>
+    <string name="kimchi_jjigae_tags">#김치 #두부 #채소</string>
+    <string name="kimchi_jjigae_long_description">김치, 두부, 여러 채소로 만든 푸짐하고 매운 찌개.</string>
+    <string name="kimchi_jjigae_ingredients">비건 김치, 두부, 양파, 마늘, 파, 애호박, 버섯, 고추장, 간장, 야채 육수</string>
+    <string name="kimchi_jjigae_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="kimchi_jjigae_restrictions">콩 포함. 쇠고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 참깨, 겨자, 셀러리, 아황산염, 루핀 제외. 돼지고기 포함 가능.</string>
+
+    <!-- Strings for Gaji Bokkeum -->
+    <string name="gaji_bokkeum_name">가지 볶음</string>
+    <string name="gaji_bokkeum_description">가지 볶음</string>
+    <string name="gaji_bokkeum_tags">#가지 #간장 #마늘</string>
+    <string name="gaji_bokkeum_long_description">간장, 마늘, 참기름으로 양념한 가지 볶음.</string>
+    <string name="gaji_bokkeum_ingredients">가지, 간장, 마늘, 양파, 파, 참기름, 참깨, 고춧가루, 설탕, 물</string>
+    <string name="gaji_bokkeum_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="gaji_bokkeum_restrictions">콩, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+
+    <!-- Strings for Yachae Bibim Guksu -->
+    <string name="yachae_bibim_guksu_name">야채 비빔국수</string>
+    <string name="yachae_bibim_guksu_description">매운 비빔국수</string>
+    <string name="yachae_bibim_guksu_tags">#국수 #채소 #고추장</string>
+    <string name="yachae_bibim_guksu_long_description">여러 가지 채소와 매운 고추장 소스로 비빈 국수.</string>
+    <string name="yachae_bibim_guksu_ingredients">밀 국수, 오이, 당근, 시금치, 고추장, 간장, 마늘, 참기름, 설탕, 식초</string>
+    <string name="yachae_bibim_guksu_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="yachae_bibim_guksu_restrictions">콩, 밀, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+
+    <!-- Strings for Kongnamul Gukbap -->
+    <string name="kongnamul_gukbap_name">콩나물 국밥</string>
+    <string name="kongnamul_gukbap_description">콩나물 국밥</string>
+    <string name="kongnamul_gukbap_tags">#콩나물 #밥 #마늘</string>
+    <string name="kongnamul_gukbap_long_description">콩나물, 밥, 마늘로 맛을 낸 따뜻한 국밥.</string>
+    <string name="kongnamul_gukbap_ingredients">콩나물, 밥, 마늘, 파, 간장, 참기름, 고추가루, 야채 육수, 소금, 후추</string>
+    <string name="kongnamul_gukbap_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="kongnamul_gukbap_restrictions">콩, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외. 계란 포함 가능.</string>
+
+    <!-- Strings for Sigeumchi Doenjang Guk -->
+    <string name="sigeumchi_doenjang_guk_name">시금치 된장국</string>
+    <string name="sigeumchi_doenjang_guk_description">시금치 된장국</string>
+    <string name="sigeumchi_doenjang_guk_tags">#시금치 #된장 #마늘</string>
+    <string name="sigeumchi_doenjang_guk_long_description">시금치, 된장, 마늘로 만든 구수한 국.</string>
+    <string name="sigeumchi_doenjang_guk_ingredients">시금치, 된장, 마늘, 양파, 파, 두부, 물, 간장, 참기름, 소금</string>
+    <string name="sigeumchi_doenjang_guk_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="sigeumchi_doenjang_guk_restrictions">콩, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+
+    <!-- Strings for Chwinamul Bap -->
+    <string name="chwinamul_bap_name">취나물밥</string>
+    <string name="chwinamul_bap_description">취나물밥</string>
+    <string name="chwinamul_bap_tags">#밥 #취나물 #마늘</string>
+    <string name="chwinamul_bap_long_description">밥과 양념된 취나물을 섞어 만든 취나물밥.</string>
+    <string name="chwinamul_bap_ingredients">밥, 취나물, 마늘, 간장, 참기름, 파, 고춧가루, 소금, 물, 야채 육수</string>
+    <string name="chwinamul_bap_dietary_info">비건, 락토 채식주의자, 오보 채식주의자, 락토 오보 채식주의자, 폴로 채식주의자, 페스코 채식주의자</string>
+    <string name="chwinamul_bap_restrictions">콩, 참깨 포함. 쇠고기, 돼지고기, 닭고기, 양고기, 조개류, 갑각류, 유제품, 계란, 땅콩, 밀, 옥수수, 글루텐, 겨자, 셀러리, 아황산염, 루핀 제외.</string>
+    <string name="detailed_description">상세 설명</string>
+    <string name="_10_major_ingredients">10가지 주요 영양성분</string>
+    <string name="permitted_vegan_type">식용 불가한 비건 타입</string>
+    <string name="press_here_to_view_restaurants_in_google_map">구글맵에서 관련 레스토랑 찾기</string>
+    <string name="food_information">음식 정보</string>
+    <string name="korean_vegan_food">한국 비건 음식</string>
+    <string name="custom">Custom</string>
+</resources>

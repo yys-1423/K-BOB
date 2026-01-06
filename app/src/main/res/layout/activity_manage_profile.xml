@@ -1,0 +1,26 @@
+<!-- res/layout/activity_manage_profile.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- List of profiles -->
+    <ListView
+        android:id="@+id/list_profiles"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:dividerHeight="8dp"
+        android:divider="@android:color/darker_gray" />
+
+    <!-- Button to add a new profile -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_add_profile"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/add_profile"
+        style="@style/FancyButton" />
+</LinearLayout>
